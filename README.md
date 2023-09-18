@@ -1,5 +1,8 @@
 # Text-Twist 2 Robot 🤖
 
+![Alt Text](textTwistImage.png)
+
+
 Repository for Text-Twist 2 Robot made by Tony Li.
 If you want to use the robot for your own purposes you need only run the _Main.java_ file.
 There is no need to run the robot trainer file _TextReader.java_ as I have already pre-trained
